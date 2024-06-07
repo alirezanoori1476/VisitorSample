@@ -1,0 +1,14 @@
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\obj\Debug\net8.0\VisitorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\obj\Debug\net8.0\VisitorSample.AssemblyInfoInputs.cache
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\obj\Debug\net8.0\VisitorSample.AssemblyInfo.cs
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\obj\Debug\net8.0\VisitorSample.csproj.CoreCompileInputs.cache
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\bin\Debug\net8.0\VisitorSample.exe
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\bin\Debug\net8.0\VisitorSample.deps.json
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\bin\Debug\net8.0\VisitorSample.runtimeconfig.json
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\bin\Debug\net8.0\VisitorSample.dll
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\bin\Debug\net8.0\VisitorSample.pdb
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\obj\Debug\net8.0\VisitorSample.dll
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\obj\Debug\net8.0\refint\VisitorSample.dll
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\obj\Debug\net8.0\VisitorSample.pdb
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\obj\Debug\net8.0\VisitorSample.genruntimeconfig.cache
+C:\Users\alire\OneDrive\Desktop\Sample\Visitor\VisitorSample\VisitorSample\obj\Debug\net8.0\ref\VisitorSample.dll
